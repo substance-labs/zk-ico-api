@@ -1,7 +1,7 @@
 {
-  "name": "base-contract-deployer-api",
+  "name": "zk-ico-api",
   "version": "1.0.0",
-  "description": "API for deploying contracts on Base network using Viem",
+  "description": "ZkIco api",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",

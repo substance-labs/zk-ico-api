@@ -1,15 +1,6 @@
-# Base Contract Deployment API
+# ZkIco API
 
-A RESTful API for deploying smart contracts on Base network using Viem and TypeScript.
-
-## Features
-
-- Deploy contracts using bytecode and constructor parameters
-- Support for Base Mainnet and Base Sepolia Testnet
-- Gas estimation before deployment
-- Comprehensive error handling
-- Request validation
-- Logging and monitoring
+A RESTful API for the ZkIco platform.
 
 ## Prerequisites
 
@@ -21,8 +12,8 @@ A RESTful API for deploying smart contracts on Base network using Viem and TypeS
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd base-contract-deployer-api
+git clone https://github.com/substance-labs/zk-ico-api
+cd zk-ico-api
 ```
 
 2. Install dependencies:
